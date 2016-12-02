@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MatNETIO.types.MLArray">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABAJAgKAYTAgDQXRwGAwCeBAgUADQAQaRgQAJIAC4A=</HashCode>
+      <FileName>types\MLArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatNETIO.types.MLDouble">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>types\MLDouble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatNETIO.types.MLNumericArray&lt;T&gt;">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACBAIAIACABABQggAAQYAQAAAEAMDIBAAAAQIQAAA=</HashCode>
+      <FileName>types\MLNumericArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MatNETIO.types.MLCell">
+    <Position X="3" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABCgIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>types\MLCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatNETIO.types.MLChar">
+    <Position X="3" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAKAAAgABAAAggAABAAAAIAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>types\MLChar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MatNETIO.types.MLEmptyArray">
+    <Position X="5.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>types\MLEmptyArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatNETIO.types.MLInt32">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>types\MLInt32.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatNETIO.types.MLStructure">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAAAAAAAAAQAAGgAAAIAAAAAAAABAAAAAAAEAAAA=</HashCode>
+      <FileName>types\MLStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

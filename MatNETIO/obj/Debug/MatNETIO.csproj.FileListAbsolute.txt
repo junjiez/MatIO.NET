@@ -1,0 +1,10 @@
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\obj\Debug\MatNETIO.csprojResolveAssemblyReference.cache
+E:\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\obj\Debug\MatNETIO.csprojResolveAssemblyReference.cache
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\bin\Debug\MatNETIO.dll
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\bin\Debug\MatNETIO.pdb
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\obj\Debug\MatNETIO.dll
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\obj\Debug\MatNETIO.pdb
+E:\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\bin\Debug\MatNETIO.dll
+E:\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\bin\Debug\MatNETIO.pdb
+E:\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\obj\Debug\MatNETIO.dll
+E:\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\obj\Debug\MatNETIO.pdb

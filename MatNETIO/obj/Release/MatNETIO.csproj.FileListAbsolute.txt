@@ -1,0 +1,7 @@
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\bin\Release\MatNETIO.dll
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\bin\Release\MatNETIO.pdb
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\obj\Release\MatNETIO.csprojResolveAssemblyReference.cache
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\obj\Release\MatNETIO.dll
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\obj\Release\MatNETIO.pdb
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\bin\Release\System.Net.Http.dll
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIO\bin\Release\System.Net.Http.xml

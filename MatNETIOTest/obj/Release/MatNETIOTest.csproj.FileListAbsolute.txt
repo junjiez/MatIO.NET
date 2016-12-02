@@ -1,0 +1,11 @@
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIOTest\bin\Release\MatNETIOTest.exe.config
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIOTest\bin\Release\MatNETIOTest.exe
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIOTest\bin\Release\MatNETIOTest.pdb
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIOTest\bin\Release\MatNETIO.dll
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIOTest\bin\Release\MatNETIO.pdb
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIOTest\obj\Release\MatNETIOTest.csprojResolveAssemblyReference.cache
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIOTest\obj\Release\MatNETIOTest.Main.resources
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIOTest\obj\Release\MatNETIOTest.Properties.Resources.resources
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIOTest\obj\Release\MatNETIOTest.csproj.GenerateResource.Cache
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIOTest\obj\Release\MatNETIOTest.exe
+C:\Users\Research\MyCloud\SRI Files\programs\MatNETIO\MatNETIOTest\obj\Release\MatNETIOTest.pdb
